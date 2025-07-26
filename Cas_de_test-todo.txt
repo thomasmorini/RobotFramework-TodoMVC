@@ -1,0 +1,34 @@
+﻿Liste des cas de test pour le projet TodoMVC
+
+1. Ouvrir la page TodoMVC
+Vérifier que la page s’ouvre correctement.
+
+2. Vérifier la présence du champ d’ajout de tâche
+Le champ pour entrer une nouvelle tâche doit être visible.
+
+3. Ajouter une nouvelle tâche
+Entrer un texte dans le champ et valider l’ajout.
+
+4. Vérifier que la tâche ajoutée apparaît dans la liste
+Confirmer que la nouvelle tâche est bien affichée.
+
+5. Marquer une tâche comme terminée
+Cliquer sur la case à cocher pour marquer la tâche terminée.
+
+6. Vérifier que la tâche est bien barrée (terminée)
+S’assurer que l’affichage indique que la tâche est terminée.
+
+7. Supprimer une tâche
+Supprimer une tâche existante de la liste.
+
+8. Vérifier que la tâche a bien été supprimée
+Confirmer que la tâche n’apparaît plus dans la liste.
+
+9. Vérifier que le compteur de tâches restantes est correct
+Le nombre affiché doit correspondre aux tâches non terminées.
+
+10. Vérifier le filtre "Toutes", "Actives", "Terminées"
+Tester que chaque filtre affiche bien les bonnes tâches.
+
+11. Vérifier que le bouton 'Clear Completed' efface les tâches 'Terminées'
+Après clic sur le bouton, les tâches terminées ne doivent plus être visibles.
