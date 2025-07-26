@@ -1,0 +1,15 @@
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Environnements virtuels Python
+venv/
+env/
+
+# Robot Framework reports et logs
+output.xml
+report.html
+log.html
+
+# Autres fichiers temporaires
+*.log
